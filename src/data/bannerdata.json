@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Innovating the Future of Digital Displays",
+    "subtitle": "New Arrival...",
+    "description": "To be the global leader in LED display technology, offering innovative high-performance digital signage solution that revilutionize visual communication, fostering a smarter and more connected world.",
+    "image": "/images/P4-Indoor-Rental-LED-Display.png",
+    "circle": "template/assets/imgs/furniture/banner/circle.png",
+    "btn1Text": "Buy Now",
+    "btn1Link": "/indoor",
+    "btn2Text": "View Details",
+    "btn2Link": "/indoor"
+  },
+  {
+    "id": 2,
+    "title": "Innovating the Future of Digital Displays",
+    "subtitle": "New Arrival...",
+    "description": "To be the global leader in LED display technology, offering innovative high-performance digital signage solution that revilutionize visual communication, fostering a smarter and more connected world.",
+    "image": "/images/P2.5-Outdoor-rental.png",
+    "circle": "template/assets/imgs/furniture/banner/circle.png",
+    "btn1Text": "Buy Now",
+    "btn1Link": "/indoor",
+    "btn2Text": "View Details",
+    "btn2Link": "/indoor"
+  },
+  {
+    "id": 3,
+    "title": "Innovating the Future of Digital Displays",
+    "subtitle": "New Arrival...",
+    "description": "To be the global leader in LED display technology, offering innovative high-performance digital signage solution that revilutionize visual communication, fostering a smarter and more connected world.",
+    "image": "/images/P4-Indoor-Rental-LED-Display.png",
+    "circle": "template/assets/imgs/furniture/banner/circle.png ",
+    "btn1Text": "Buy Now",
+    "btn1Link": "/indoor",
+    "btn2Text": "View Details",
+    "btn2Link": "/indoor"
+  }
+]

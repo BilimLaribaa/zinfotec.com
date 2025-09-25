@@ -1,0 +1,1647 @@
+{
+
+  "featured": [
+    {
+      "id": 1,
+      "title": "p1.25/1.53 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 15.0,
+      "newPrice": 12500,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.25 / 1.53 Indoor LED Display is a premium ultra-high-resolution display solution tailored for environments that demand exceptional image clarity and fine detail visibility. With a 1.25 / 1.53 mm pixel pitch, this display is ideal for close-range viewing applications, making it perfect for control rooms,broadcast studios, and high-end conference setups. It offers seamless visuals with vibrant colors, high contrast, and a smooth viewing experience, even in low-light indoor environments.",
+      "images": [
+        "/images/Indoor LED Display/p1.25---1.53.png",
+        "/images/Indoor LED Display/p1.25---1.53.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "210*105=22,050 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<23W, Max:<439W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "p1.8/2 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 120.0,
+      "newPrice": 8200,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.8 / P2 Indoor LED Display is a high-resolution display solution designed for indoor environments requiring detailed visuals and seamless performance. With a P1.8 / 2.0mm pixel pitch, this display is perfect for applications demanding crisp images and vibrant color reproduction. It is suitable for retail showrooms, corporate offices, conference rooms, and exhibition spaces, offering an immersive viewing experience with close-range clarity.",
+      "images": [
+        "/images/Indoor LED Display/p1.8---2.png",
+        "/images/Indoor LED Display/p1.8---2.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">3840 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "160*80=12,800 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<25.3W, Max:<469W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "p3 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 60.0,
+      "newPrice": 5500,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Energy-saving indoor lamp with LED light",
+      "description": "The P3 Indoor LED Display is a high-resolution display solution designed for indoor environments that require clear and vibrant visuals with excellent color accuracy. With a 3.0mm pixel pitch, this display provides sharp images, smooth playback, and superior brightness, making it perfect for corporate board- rooms, conference halls, retail environments, and exhibition spaces. It offers seamless visuals with a wide viewing angle, high contrast, and superior refresh rates.",
+      "images": [
+        "/images/Indoor LED Display/p3.png",
+        "/images/Indoor LED Display/p3.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2020(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "104*52=5408 dots",
+        "Cabinet Size": "576mm*576mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<18 W, Max:<324W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Wall-Mounted/Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "p4 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 200.0,
+      "newPrice": 4500,
+      "rating": 4,
+      "reviews": 5,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P4 Indoor LED Display is a high-quality display solution designed for indoor environments requiring vibrant visuals and excellent viewing experiences. With a 4.0mm pixel pitch, it ensures clear images, smooth video playback, and superior brightness, making it ideal for conference halls, retail showrooms, control rooms, and exhibition spaces. This display offers wide viewing angles, high contrast, and outstand- ing refresh rates for seamless performance in any indoor setting.",
+      "images": [
+        "/images/Indoor LED Display/p4.png",
+        "/images/Indoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2121(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "80*40=3200 dots",
+        "Cabinet Size": "1024mm*1024mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-15 kg per cabinet",
+        "Power Consumption": "<16.0 W, Max:< 288 W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Wall-Mounted/Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-06.png",
+          "comment": "Very spacious and stylish."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "p1.25 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "oldPrice": 180.0,
+      "newPrice": 4500,
+      "rating": 5,
+      "reviews": 7,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P1.25 Indoor Rental LED Display is one of the finest pixel-pitch display solutions available today, delivering ultra-high-definition visuals with precision and clarity. Built specifically for indoor environments that demand close viewing and stunning detail-such as broadcast studios, corporate events, product launches, and control rooms-it is engineered with advanced SMD1010 technology and die-cast aluminum cabinets to ensure a seamless, sharp, and immersive viewing experience.",
+      "images": [
+        "/images/Indoor Rental LED Display/p1.25.png",
+        "/images/Indoor Rental LED Display/p1.25.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "6000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "210*105=22,050 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<23W, Max:<439W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Vikas",
+          "avatar": "assets/imgs/user/user-07.png",
+          "comment": "Perfect desk for work from home."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "p1.53 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "oldPrice": 350.0,
+      "newPrice": 4500,
+      "rating": 4,
+      "reviews": 8,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P1.53 Indoor Rental LED Display offers a powerful combination of ultra-high resolution, smooth performance, and modular design-making it ideal for professional-grade indoor environments that require crisp detail and close viewing clarity. With its pixel pitch of 1.53mm, it's perfect for executive boardrooms, command centers, auditoriums, and exhibition spaces.",
+      "images": [
+        "/images/Indoor Rental LED Display/p1.53.png",
+        "/images/Indoor Rental LED Display/p1.53.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "210*105=22,050 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<23W, Max:<439W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Manoj",
+          "avatar": "assets/imgs/user/user-08.png",
+          "comment": "Good build and enough storage."
+        }
+      ]
+    }
+  ],
+    "trendy": [
+    {
+      "id": 1,
+      "title": "p1.25/1.53 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 15.0,
+      "newPrice": 12500,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.25 / 1.53 Indoor LED Display is a premium ultra-high-resolution display solution tailored for environments that demand exceptional image clarity and fine detail visibility. With a 1.25 / 1.53 mm pixel pitch, this display is ideal for close-range viewing applications, making it perfect for control rooms,broadcast studios, and high-end conference setups. It offers seamless visuals with vibrant colors, high contrast, and a smooth viewing experience, even in low-light indoor environments.",
+      "images": [
+        "/images/Indoor LED Display/p1.25---1.53.png",
+        "/images/Indoor LED Display/p1.25---1.53.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "210*105=22,050 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<23W, Max:<439W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "p1.8/2 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 120.0,
+      "newPrice": 8200,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.8 / P2 Indoor LED Display is a high-resolution display solution designed for indoor environments requiring detailed visuals and seamless performance. With a P1.8 / 2.0mm pixel pitch, this display is perfect for applications demanding crisp images and vibrant color reproduction. It is suitable for retail showrooms, corporate offices, conference rooms, and exhibition spaces, offering an immersive viewing experience with close-range clarity.",
+      "images": [
+        "/images/Indoor LED Display/p1.8---2.png",
+        "/images/Indoor LED Display/p1.8---2.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010(1R1G1B)",
+        "Refresh Rate": ">3840 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "160*80=12,800 dots",
+        "Cabinet Size": "640mm*480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<25.3W, Max:<469W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "p3 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 60.0,
+      "newPrice": 5500,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Energy-saving indoor lamp with LED light",
+      "description": "The P3 Indoor LED Display is a high-resolution display solution designed for indoor environments that require clear and vibrant visuals with excellent color accuracy. With a 3.0mm pixel pitch, this display provides sharp images, smooth playback, and superior brightness, making it perfect for corporate board- rooms, conference halls, retail environments, and exhibition spaces. It offers seamless visuals with a wide viewing angle, high contrast, and superior refresh rates.",
+      "images": [
+        "/images/Indoor LED Display/p3.png",
+        "/images/Indoor LED Display/p3.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2020(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "104*52=5408 dots",
+        "Cabinet Size": "576mm*576mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "<18 W, Max:<324W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Wall-Mounted/Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "p4 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 200.0,
+      "newPrice": 4500,
+      "rating": 4,
+      "reviews": 5,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P4 Indoor LED Display is a high-quality display solution designed for indoor environments requiring vibrant visuals and excellent viewing experiences. With a 4.0mm pixel pitch, it ensures clear images, smooth video playback, and superior brightness, making it ideal for conference halls, retail showrooms, control rooms, and exhibition spaces. This display offers wide viewing angles, high contrast, and outstand- ing refresh rates for seamless performance in any indoor setting.",
+      "images": [
+        "/images/Indoor LED Display/p4.png",
+        "/images/Indoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2121(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*15 mm",
+        "Module Resolution": "80*40=3200 dots",
+        "Cabinet Size": "1024mm*1024mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-15 kg per cabinet",
+        "Power Consumption": "<16.0 W, Max:< 288 W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Wall-Mounted/Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-06.png",
+          "comment": "Very spacious and stylish."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "P2/2.5 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 15.0,
+      "newPrice": 12800,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P2/P2.5 Outdoor LED Display is a cutting-edge ultra-high-definition display designed for premium outdoor applications that require exceptional image clarity, vibrant colors, and high pixel density. With a 2.0mm or 2.5 mm pixel pitch, this display provides stunning resolution, making it perfect for applications where detailed visuals and crisp text are essential. It ensures high brightness and visibility even in direct sunlight, offering an outstanding viewing experience across various outdoor environments.",
+      "images": [
+        "/images/Outdoor LED Display/P2-P2.5.png",
+        "/images/Outdoor LED Display/P2-P2.5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*18.5 mm",
+        "Module Resolution": "128*64=8192 dots",
+        "Cabinet Size": "Customized",
+        "Cabinet Material": "Die-cast or MS",
+        "Weight": "As per cabinet size",
+        "Power Consumption": "<33 W, Max:< 648 W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "Huidu / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "P3/P3.07 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 120.0,
+      "newPrice": 8500,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P3 Outdoor LED Display is an advanced high-definition display designed for outdoor environments requiring sharp visuals, high brightness, and durability. With a 3.0/3.07mm pixel pitch, this display delivers crystal- clear images and superior color accuracy, making it ideal for applications that demand detailed content visibility from medium distances. Engineered with high refresh rates and weatherproof technology, the P3/P3.07 Outdoor LED Display is suitable for continuous operation in demanding outdoor conditions.",
+      "images": [
+        "/images/Outdoor LED Display/P3-P3.07.png",
+        "/images/Outdoor LED Display/P3-P3.07.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515(1R1G1B)",
+        "Refresh Rate": ">1920 Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140'(Horizontal) / 130'(Vertical)",
+        "Module Size": "320*160*17.5 mm",
+        "Module Resolution": "104*52=5408 dots",
+        "Cabinet Size": "Customized",
+        "Cabinet Material": "Die-cast or MS",
+        "Weight": "As per cabinet size",
+        "Power Consumption": "<40 W, Max:< 786 W/m2",
+        "Operating Temperature": "-20'C to +40'C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed/Rental/Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "p4 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 60.0,
+      "newPrice": 5200,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P4 Outdoor LED Display is a versatile and high-performance display designed for medium-range viewing applications. With a 4.0mm pixel pitch, it offers excellent image clarity, vibrant colors, and wide viewing angles, making it ideal for public advertisements, sports venues, and transportation hubs. It combines high brightness and durability to ensure consistent performance in various outdoor conditions.",
+      "images": [
+        "/images/Outdoor LED Display/p4.png",
+        "/images/Outdoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 47 W, Max: ≤ 909 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": ">100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "p5 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 200.0,
+      "newPrice": 4400,
+      "rating": 4,
+      "reviews": 5,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P5 Outdoor LED Display is a cost-effec􀆟ve and versa􀆟le display solu􀆟on designed for long-distance viewing applica􀆟ons. With a 5.0mm pixel pitch, it delivers sharp visuals, bright colors, and robust performance, making it an ideal choice for outdoor adver􀆟sing, live events, and corporate branding. The display is built to withstand harsh outdoor condi􀆟ons while offering energy efficiency and easy maintenance.",
+      "images": [
+        "/images/Outdoor LED Display/p5.png",
+        "/images/Outdoor LED Display/p5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2121(1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "64 × 32 = 2048 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 43 W, Max: ≤ 836 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-06.png",
+          "comment": "Very spacious and stylish."
+        }
+      ]
+    }
+  ],
+    "best": [
+    {
+      "id": 1,
+      "title": "p1.25/1.53 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 15.0,
+      "newPrice": 12500,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.25 / 1.53 Indoor LED Display is a premium ultra-high-resolution display solution tailored for environments that demand exceptional image clarity and fine detail visibility. With a 1.25 / 1.53 mm pixel pitch, this display is ideal for close-range viewing applications, making it perfect for control rooms,broadcast studios, and high-end conference setups. It offers seamless visuals with vibrant colors, high contrast, and a smooth viewing experience, even in low-light indoor environments.",
+      "images": [
+        "/images/Indoor LED Display/p1.25---1.53.png",
+        "/images/Indoor LED Display/p1.25---1.53.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "210 × 105 = 22,050 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 23 W, Max: ≤ 439 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "p1.8/2 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 120.0,
+      "newPrice": 8200,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.8 / P2 Indoor LED Display is a high-resolution display solution designed for indoor environments requiring detailed visuals and seamless performance. With a P1.8 / 2.0mm pixel pitch, this display is perfect for applications demanding crisp images and vibrant color reproduction. It is suitable for retail showrooms, corporate offices, conference rooms, and exhibition spaces, offering an immersive viewing experience with close-range clarity.",
+      "images": [
+        "/images/Indoor LED Display/p1.8---2.png",
+        "/images/Indoor LED Display/p1.8---2.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "160 × 80 = 12,800 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 25.3 W, Max: ≤ 469 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "p3 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "oldPrice": 60.0,
+      "newPrice": 5500,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Energy-saving indoor lamp with LED light",
+      "description": "The P3 Indoor LED Display is a high-resolution display solution designed for indoor environments that require clear and vibrant visuals with excellent color accuracy. With a 3.0mm pixel pitch, this display provides sharp images, smooth playback, and superior brightness, making it perfect for corporate board- rooms, conference halls, retail environments, and exhibition spaces. It offers seamless visuals with a wide viewing angle, high contrast, and superior refresh rates.",
+      "images": [
+        "/images/Indoor LED Display/p3.png",
+        "/images/Indoor LED Display/p3.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2020 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (horizontal) / 130° (ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "104 × 52 = 5408 dots",
+        "Cabinet Size": "576mm x 576mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "8-12 kg per cabinet",
+        "Power Consumption": "≤ 18 W, Max: ≤ 324 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "P2/2.5 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 15.0,
+      "newPrice": 12800,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P2/P2.5 Outdoor LED Display is a cu􀆫ng-edge ultra-high-defini􀆟on display designed for premium outdoor applica􀆟ons that require excep􀆟onal image clarity, vibrant colors, and high pixel density. With a 2.0mm or 2.5 mm pixel pitch, this display provides stunning resolu􀆟on, making it perfect for applica􀆟ons where detailed visuals and crisp text are essen􀆟al. It ensures high brightness and visibility even in direct sunlight, offering an outstanding viewing experience across various outdoor environments.",
+      "images": [
+        "/images/Outdoor LED Display/P2-P2.5.png",
+        "/images/Outdoor LED Display/P2-P2.5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "160° (horizontal) / 140° (ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "128 × 64 = 8192 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 648 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "P3/P3.07 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 120.0,
+      "newPrice": 8500,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P3 Outdoor LED Display is an advanced high-defini􀆟on display designed for outdoor environments requiring sharp visuals, high brightness, and durability. With a 3.0/3.07mm pixel pitch, this display delivers crystal- clear images and superior color accuracy, making it ideal for applica􀆟ons that demand detailed content visibility from medium distances. Engineered with high refresh rates and weatherproof technology, the P3/P3.07 Outdoor LED Display is suitable for con􀆟nuous opera􀆟on in demanding outdoor condi􀆟ons.",
+      "images": [
+        "/images/Outdoor LED Display/P3-P3.07.png",
+        "/images/Outdoor LED Display/P3-P3.07.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 17.5 mm",
+        "Module Resolution": "104 × 52 = 5408 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 40 W, Max: ≤ 786 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "p4 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "oldPrice": 60.0,
+      "newPrice": 5200,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P4 Outdoor LED Display is a versa􀆟le and high-performance display designed for medium-range viewing applica􀆟ons. With a 4.0mm pixel pitch, it offers excellent image clarity, vibrant colors, and wide viewing angles, making it ideal for public adver􀆟sements, sports venues, and transporta􀆟on hubs. It combines high brightness and durability to ensure consistent performance in various outdoor condi􀆟ons.",
+      "images": [
+        "/images/Outdoor LED Display/p4.png",
+        "/images/Outdoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 47 W, Max: ≤ 909 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    }
+  ],
+   "indoor": [
+    {
+      "id": 1,
+      "title": "p1.25/1.53 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "newPrice": 12500.0,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.25 / 1.53 Indoor LED Display is a premium ultra-high-resolution display solution tailored for environments that demand exceptional image clarity and fine detail visibility. With a 1.25 / 1.53 mm pixel pitch, this display is ideal for close-range viewing applications, making it perfect for control rooms,broadcast studios, and high-end conference setups. It offers seamless visuals with vibrant colors, high contrast, and a smooth viewing experience, even in low-light indoor environments.",
+      "images": [
+        "/images/Indoor LED Display/p1.25---1.53.png",
+        "/images/Indoor LED Display/p1.25---1.53.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "210 × 105 = 22,050 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 23 W, Max: ≤ 439 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "p1.8/2 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "newPrice": 8200.0,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P1.8 / P2 Indoor LED Display is a high-resolution display solution designed for indoor environments requiring detailed visuals and seamless performance. With a P1.8 / 2.0mm pixel pitch, this display is perfect for applications demanding crisp images and vibrant color reproduction. It is suitable for retail showrooms, corporate offices, conference rooms, and exhibition spaces, offering an immersive viewing experience with close-range clarity.",
+      "images": [
+        "/images/Indoor LED Display/p1.8---2.png",
+        "/images/Indoor LED Display/p1.8---2.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "160 × 80 = 12,800 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 25.3 W, Max: ≤ 469 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "p3 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "newPrice": 5500.0,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Energy-saving indoor lamp with LED light",
+      "description": "The P3 Indoor LED Display is a high-resolution display solution designed for indoor environments that require clear and vibrant visuals with excellent color accuracy. With a 3.0mm pixel pitch, this display provides sharp images, smooth playback, and superior brightness, making it perfect for corporate board- rooms, conference halls, retail environments, and exhibition spaces. It offers seamless visuals with a wide viewing angle, high contrast, and superior refresh rates.",
+      "images": [
+        "/images/Indoor LED Display/p3.png",
+        "/images/Indoor LED Display/p3.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2020 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (horizontal) / 130° (ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "104 × 52 = 5408 dots",
+        "Cabinet Size": "576mm x 576mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "8-12 kg per cabinet",
+        "Power Consumption": "≤ 18 W, Max: ≤ 324 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "p4 Indoor LED Display",
+      "category": "Indoor LED Display",
+      "newPrice": 4500.0,
+      "rating": 4,
+      "reviews": 5,
+      "shortDescription": "Indoor LED Display",
+      "description": "The P4 Indoor LED Display is a high-quality display solution designed for indoor environments requiring vibrant visuals and excellent viewing experiences. With a 4.0mm pixel pitch, it ensures clear images, smooth video playback, and superior brightness, making it ideal for conference halls, retail showrooms, control rooms, and exhibition spaces. This display offers wide viewing angles, high contrast, and outstand- ing refresh rates for seamless performance in any indoor setting.",
+      "images": [
+        "/images/Indoor LED Display/p4.png",
+        "/images/Indoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+         "LED Type": "SMD2121 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "1024mm x 1024mm",
+        "Cabinet Material": "Die-cast aluminum",
+        "Weight": "10-15 kg per cabinet",
+        "Power Consumption": "≤ 16.0 W, Max: ≤ 288 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-06.png",
+          "comment": "Very spacious and stylish."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "p1.25 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 7,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P1.25 Indoor Rental LED Display is one of the finest pixel-pitch display solu􀆟ons available today, delivering ultra-high-defini􀆟on visuals with precision and clarity. Built specifically for indoor environments that demand close viewing and stunning detail—such as broadcast studios, corporate events, product launches, and control rooms—it is engineered with advanced SMD1010 technology and die-cast aluminum cabinets to ensure a seamless, sharp, and immersive viewing experience.",
+      "images": [
+        "/images/Indoor Rental LED Display/p1.25.png",
+        "/images/Indoor Rental LED Display/p1.25.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "6000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "210 × 105 = 22,050 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 23 W, Max: ≤ 439 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Vikas",
+          "avatar": "assets/imgs/user/user-07.png",
+          "comment": "Perfect desk for work from home."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "p1.53 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice":"inquiry for price",
+      "rating": 4,
+      "reviews": 8,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P1.53 Indoor Rental LED Display offers a powerful combina􀆟on of ultra-high resolu􀆟on, smooth performance, and modular design—making it ideal for professional-grade indoor environments that require crisp detail and close viewing clarity. With its pixel pitch of 1.53mm, it’s perfect for execu􀆟ve boardrooms, command centers, auditoriums, and exhibi􀆟on spaces.",
+      "images": [
+        "/images/Indoor Rental LED Display/p1.53.png",
+        "/images/Indoor Rental LED Display/p1.53.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "210 × 105 = 22,050 dots",
+        "Cabinet Size": "640mm x 480mm",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 23 W, Max: ≤ 439 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Manoj",
+          "avatar": "assets/imgs/user/user-08.png",
+          "comment": "Good build and enough storage."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "p1.8 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 3,
+      "reviews": 3,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P1.8 Indoor Rental LED Display is a high-performance, fine-pitch digital screen built for premium indoor environments that require crystal-clear visuals and smooth video playback. With a pixel pitch of 1.8mm, it delivers excellent resolu􀆟on and is ideal for medium- to close-range viewing. This model is widely used in conference halls, exhibi􀆟on venues, broadcast sets, control rooms, and upscale retail spaces.",
+      "images": [
+        "/images/Indoor Rental LED Display/p1.8.png",
+        "/images/Indoor Rental LED Display/p1.8.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "172 × 86 = 14,792 dots",
+        "Cabinet Size": "640mm × 480mm",
+        "Weight": "10-12 kg per cabinet",
+        "Power Consumption": "≤ 25.3 W, Max: ≤ 469 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight / Vtronics",
+        "Installation Type": "Stack / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Riya",
+          "avatar": "assets/imgs/user/user-09.png",
+          "comment": "Looks simple and elegant."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "p2 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 10,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P2 Indoor Rental LED Display is a high-defini􀆟on display solu􀆟on engineered for dynamic indoor environments requiring bright, sharp, and engaging visuals. With a pixel pitch of 2.0mm, it strikes the perfect balance between fine resolu􀆟on and cost-efficiency, making it ideal for large conference displays, exhibi􀆟on halls, auditoriums, and digital backdrops.",
+      "images": [
+        "/images/Indoor Rental LED Display/p2.png",
+        "/images/Indoor Rental LED Display/p2.png"
+      ],
+      "additionalInfo": {
+       "LED Type": "SMD1010 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "160 × 80 = 12,800 dots",
+        "Cabinet Size": "640mm × 480mm",
+        "Weight": "11–13 kg per cabinet",
+        "Power Consumption": "≤ 20.3 W, Max: ≤ 364 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight / Vtronics ",
+        "Installation Type": "Stack / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-10.png",
+          "comment": "Very strong and stylish table."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "p2.5 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 4,
+      "reviews": 7,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P2.5 Indoor Rental LED Display is a versa􀆟le high-resolu􀆟on LED screen designed for indoor environments requiring vibrant visuals, flexible setup, and long-term reliability. With a pixel pitch of 2.5mm, it provides sharp image clarity suitable for close-to-mid viewing distances, making it ideal for events, presenta􀆟ons, exhibi􀆟ons, and promo􀆟onal indoor setups.",
+      "images": [
+        "/images/Indoor Rental LED Display/p2.5.png",
+        "/images/Indoor Rental LED Display/p2.5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2020 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "128 × 64 = 8192 dots",
+        "Cabinet Size": "640mm × 480mm",
+        "Weight": "11–13 kg per cabinet",
+        "Power Consumption": "≤ 17.1 W, Max: ≤ 306 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight / Vtronics",
+        "Installation Type": "Stack / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Nikhil",
+          "avatar": "assets/imgs/user/user-11.png",
+          "comment": "Very comfortable bed, strong frame."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "p3.07 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 12,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P3.07 Indoor Rental LED Display is a high-performance, cost-effec􀆟ve solu􀆟on designed for medium-range indoor visual applica􀆟ons. With a pixel pitch of 3.07mm, it delivers excellent picture quality and vibrant color reproduc􀆟on, making it ideal for conferences, exhibi􀆟ons, trade shows, auditoriums, and indoor branding installa􀆟ons.",
+      "images": [
+        "/images/Indoor Rental LED Display/p3.07.png",
+        "/images/Indoor Rental LED Display/p3.07.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2020 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 14 mm",
+        "Module Resolution": "104 × 52 = 5,408 dots",
+        "Cabinet Size": "640mm × 640mm",
+        "Weight": "11–13 kg per cabinet",
+        "Power Consumption": "≤ 22 W, Max: ≤ 413 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight / Vtronics",
+        "Installation Type": "Stack / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Karan",
+          "avatar": "assets/imgs/user/user-12.png",
+          "comment": "Super comfortable recliner!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "p4 Indoor Rental LED Display",
+      "category": "Indoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 12,
+      "shortDescription": "Indoor Rental LED Display",
+      "description": "The P4 Indoor Rental LED Display is a reliable, high-brightness LED screen designed for indoor applica􀆟ons requiring bold visuals and wider viewing angles. With a pixel pitch of 4.0mm, it delivers crisp, vibrant images at an economical price point—making it the ideal solu􀆟on for auditoriums, stage backdrops, exhibi􀆟ons, malls, and other large-format indoor venues.",
+      "images": [
+        "/images/Indoor Rental LED Display/p4.png",
+        "/images/Indoor Rental LED Display/p4.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2121 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 15 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "640mm × 640mm",
+        "Weight": "12–14 kg per cabinet",
+        "Power Consumption": "≤ 16.0 W, Max: ≤ 288 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight / Vtronics",
+        "Installation Type": "Stack / Wall-Mounted / Hanging"
+      },
+      "reviewsData": [
+        {
+          "user": "Karan",
+          "avatar": "assets/imgs/user/user-12.png",
+          "comment": "Super comfortable recliner!"
+        }
+      ]
+    }
+  ],
+  
+  "outdoor": [
+    {
+      "id": 1,
+      "title": "P2/2.5 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 12800.0,
+      "rating": 4,
+      "reviews": 3,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P2/P2.5 Outdoor LED Display is a cu􀆫ng-edge ultra-high-defini􀆟on display designed for premium outdoor applica􀆟ons that require excep􀆟onal image clarity, vibrant colors, and high pixel density. With a 2.0mm or 2.5 mm pixel pitch, this display provides stunning resolu􀆟on, making it perfect for applica􀆟ons where detailed visuals and crisp text are essen􀆟al. It ensures high brightness and visibility even in direct sunlight, offering an outstanding viewing experience across various outdoor environments.",
+      "images": [
+        "/images/Outdoor LED Display/P2-P2.5.png",
+        "/images/Outdoor LED Display/P2-P2.5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "160° (horizontal) / 140° (ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "128 × 64 = 8192 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 648 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Siarhei Dzenisenka",
+          "avatar": "assets/imgs/user/user-01.png",
+          "comment": "This sofa is very comfortable and stylish."
+        },
+        {
+          "user": "Akef",
+          "avatar": "assets/imgs/user/user-02.png",
+          "comment": "Best purchase for my home!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "P3/P3.07 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 8500.0,
+      "rating": 5,
+      "reviews": 4,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P3 Outdoor LED Display is an advanced high-defini􀆟on display designed for outdoor environments requiring sharp visuals, high brightness, and durability. With a 3.0/3.07mm pixel pitch, this display delivers crystal- clear images and superior color accuracy, making it ideal for applica􀆟ons that demand detailed content visibility from medium distances. Engineered with high refresh rates and weatherproof technology, the P3/P3.07 Outdoor LED Display is suitable for con􀆟nuous opera􀆟on in demanding outdoor condi􀆟ons.",
+      "images": [
+        "/images/Outdoor LED Display/P3-P3.07.png",
+        "/images/Outdoor LED Display/P3-P3.07.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 17.5 mm",
+        "Module Resolution": "104 × 52 = 5408 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 40 W, Max: ≤ 786 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Rohit Singh",
+          "avatar": "assets/imgs/user/user-03.png",
+          "comment": "Strong and very comfortable chair."
+        },
+        {
+          "user": "Meera",
+          "avatar": "assets/imgs/user/user-04.png",
+          "comment": "Looks amazing in my dining area."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "p4 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 5200.0,
+      "rating": 5,
+      "reviews": 6,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P4 Outdoor LED Display is a versa􀆟le and high-performance display designed for medium-range viewing applica􀆟ons. With a 4.0mm pixel pitch, it offers excellent image clarity, vibrant colors, and wide viewing angles, making it ideal for public adver􀆟sements, sports venues, and transporta􀆟on hubs. It combines high brightness and durability to ensure consistent performance in various outdoor condi􀆟ons.",
+      "images": [
+        "/images/Outdoor LED Display/p4.png",
+        "/images/Outdoor LED Display/p4.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4500:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 47 W, Max: ≤ 909 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Simran",
+          "avatar": "assets/imgs/user/user-05.png",
+          "comment": "Perfect brightness, very elegant."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "p5 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 4400.0,
+      "rating": 4,
+      "reviews": 5,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P5 Outdoor LED Display is a cost-effec􀆟ve and versa􀆟le display solu􀆟on designed for long-distance viewing applica􀆟ons. With a 5.0mm pixel pitch, it delivers sharp visuals, bright colors, and robust performance, making it an ideal choice for outdoor adver􀆟sing, live events, and corporate branding. The display is built to withstand harsh outdoor condi􀆟ons while offering energy efficiency and easy maintenance.",
+      "images": [
+        "/images/Outdoor LED Display/p5.png",
+        "/images/Outdoor LED Display/p5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "64 × 32 = 2048 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 43 W, Max: ≤ 836 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-06.png",
+          "comment": "Very spacious and stylish."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "p6 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 3900.0,
+      "rating": 5,
+      "reviews": 7,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P6 Outdoor LED Display is a cost-effec􀆟ve and reliable display solu􀆟on designed for long-distance viewing in large outdoor environments. With a 6.0mm pixel pitch, it provides bright and clear visuals, ensuring audience engagement even from a distance. Its high brightness levels and durable weatherproof design make it suitable for highways, stadiums, concerts, and large-scale adver􀆟sing.",
+      "images": [
+        "/images/Outdoor LED Display/p6.png",
+        "/images/Outdoor LED Display/p6.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "192 × 192 × 18 mm",
+        "Module Resolution": "32 × 32 = 1024 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 946 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight ",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Vikas",
+          "avatar": "assets/imgs/user/user-07.png",
+          "comment": "Perfect desk for work from home."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "p8 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 4,
+      "reviews": 8,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P8 Outdoor LED Display is a high-impact, large-format display solu􀆟on designed for long-range outdoor viewing applica􀆟ons. With a 8.0mm pixel pitch, it delivers bright, vivid images and clear text visibility, making it ideal for large billboards, commercial adver􀆟sements, and public informa􀆟on displays. Built with durability and reliability in mind, it is engineered to withstand extreme weather condi􀆟ons while offering low power consump􀆟on and easy maintenance.",
+      "images": [
+        "/images/Outdoor LED Display/p8.png",
+        "/images/Outdoor LED Display/p8.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD3535 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18 mm",
+        "Module Resolution": "40 × 20 = 800 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 649 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Manoj",
+          "avatar": "assets/imgs/user/user-08.png",
+          "comment": "Good build and enough storage."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "p10 Outdoor LED Display",
+      "category": "Outdoor LED Display",
+      "newPrice": 2800.0,
+      "rating": 3,
+      "reviews": 3,
+      "shortDescription": "Outdoor LED Display",
+      "description": "The P10 Outdoor LED Display is a durable, large-format display solu􀆟on engineered for maximum long-distance visibility in open outdoor environments. Featuring a 10.0mm pixel pitch, it is ideal for highways, stadium scoreboards, large-scale billboards, and public messaging systems. Built with high brightness and rugged construc􀆟on, this display ensures excellent performance even in harsh weather condi- 􀆟ons while offering low opera􀆟onal costs.",
+      "images": [
+        "/images/Outdoor LED Display/p10.png",
+        "/images/Outdoor LED Display/p10.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD3535 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "4000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18 mm",
+        "Module Resolution": "32 × 16 = 512 dots",
+        "Cabinet Size": "Customized.",
+        "Cabinet Material": "Die-cast or MS.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 28.5 W, Max: ≤ 497 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "NovaStar / Colorlight",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Riya",
+          "avatar": "assets/imgs/user/user-09.png",
+          "comment": "Looks simple and elegant."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "p2 Outdoor Rental LED Display",
+      "category": "Outdoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 10,
+      "shortDescription": "Outdoor Rental LED Display",
+      "description": "P2 Outdoor Rental LED Display is a high-resolu􀆟on, weatherproof display solu􀆟on designed for outdoor events, exhibi􀆟ons, concerts, and adver􀆟sing. With superior brightness, durability, and seamless visuals, it ensures an outstanding viewing experience even in direct sunlight.",
+      "images": [
+        "/images/Outdoor Rental LED Display/p2.png",
+        "/images/Outdoor Rental LED Display/p2.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "128 × 64 = 8192 dots",
+        "Cabinet Size": "Customized.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 648 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Ananya",
+          "avatar": "assets/imgs/user/user-10.png",
+          "comment": "Very strong and stylish table."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "p2.5 Outdoor Rental LED Display",
+      "category": "Outdoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 4,
+      "reviews": 7,
+      "shortDescription": "Outdoor Rental LED Display",
+      "description": "The P2.5 Outdoor Rental LED Display is engineered for high-defini􀆟on performance in outdoor environments, offering excep􀆟onal clarity, fine pixel pitch, and vibrant color reproduc􀆟on. Its lightweight, die-cast aluminum body ensures quick assembly and dismantling, making it ideal for rental applica􀆟ons such as live events, adver􀆟sing, exhibi􀆟ons, and outdoor branding ac􀆟vi􀆟es.",
+      "images": [
+        "/images/Outdoor Rental LED Display/p2.5.png",
+        "/images/Outdoor Rental LED Display/p2.5.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD1515 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (horizontal) / 130° (ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "128 × 64 = 8192 dots",
+        "Cabinet Size": "Customized.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 33 W, Max: ≤ 648 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Nikhil",
+          "avatar": "assets/imgs/user/user-11.png",
+          "comment": "Very comfortable bed, strong frame."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "p3.07 Outdoor Rental LED Display",
+      "category": "Outdoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 12,
+      "shortDescription": "Outdoor Rental LED Display",
+      "description": "The P3.07 Outdoor Rental LED Display is a high-performance, fine-pitch LED solu􀆟on specially cra􀅌ed for premium outdoor events and rental applica􀆟ons. It offers excep􀆟onal image clarity, seamless playback, and weather-resistant performance. With its op􀆟mal pixel pitch of approximately 3mm, this display strikes the perfect balance between resolu􀆟on and viewing distance, making it an excellent choice for mid-to-large-scale events.",
+      "images": [
+        "/images/Outdoor Rental LED Display/p3.07.png",
+        "/images/Outdoor Rental LED Display/p3.07.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2020 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "104 × 52 = 5408 dots",
+        "Cabinet Size": "Customized.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 41.6 W, Max: ≤ 817 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Karan",
+          "avatar": "assets/imgs/user/user-12.png",
+          "comment": "Super comfortable recliner!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "p4 Outdoor Rental LED Display",
+      "category": "Outdoor Rental LED Display",
+      "newPrice": "inquiry for price",
+      "rating": 5,
+      "reviews": 12,
+      "shortDescription": "Outdoor Rental LED Display",
+      "description": "The P4 Outdoor Rental LED Display is a versa􀆟le and reliable digital display solu􀆟on op􀆟mized for outdoor environments. With a pixel pitch of 4mm, it offers a balanced combina􀆟on of high resolu􀆟on, vibrant color reproduc􀆟on, and long-distance visibility—making it ideal for medium to large outdoor gatherings.",
+      "images": [
+        "/images/Outdoor Rental LED Display/p4.png",
+        "/images/Outdoor Rental LED Display/p4.png"
+      ],
+      "additionalInfo": {
+        "LED Type": "SMD2525 (1R1G1B)",
+        "Refresh Rate": "≥ 1920Hz / ≥ 3840Hz / ≥ 7680Hz",
+        "Contrast Ratio": "5000:1",
+        "Viewing Angle": "140° (Horizontal) / 130° (Ver􀆟cal)",
+        "Module Size": "320 × 160 × 18.5 mm",
+        "Module Resolution": "80 × 40 = 3200 dots",
+        "Cabinet Size": "Customized.",
+        "Weight": "As per Cabinet Size",
+        "Power Consumption": "≤ 47 W, Max: ≤ 909 W/m²",
+        "Operating Temperature": "-20°C to +40°C",
+        "Lifespan": "≥ 100,000 hours",
+        "Control System": "Huidu / NovaStar",
+        "Installation Type": "Fixed / Rental / Stacking"
+      },
+      "reviewsData": [
+        {
+          "user": "Karan",
+          "avatar": "assets/imgs/user/user-12.png",
+          "comment": "Super comfortable recliner!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "tag": "LED Technology",
+    "author": "Rohit Sharma",
+    "date": "10 Feb, 2024",
+    "title": "Indoor LEDs Transform Events",
+    "link": "/indoor",
+    "image": "/images/Indoor LED Display/p1.25---1.53.png"
+  },
+  {
+    "id": 2,
+    "tag": "Outdoor LED",
+    "author": "Priya Mehta",
+    "date": "15 Mar, 2024",
+    "title": "Benefits of Outdoor Billboards",
+    "link": "/outdoor",
+    "image": "/images/Outdoor LED Display/P2-P2.5.png"
+  }
+]

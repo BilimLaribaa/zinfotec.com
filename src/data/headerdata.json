@@ -1,0 +1,27 @@
+{
+  "phones": ["+9272627262", "+8390170449"],
+  "notice": "Our Experts Waiting For You! Contact Now",
+  "settings": [
+    { "name": "My Profile", "link": "#" },
+    { "name": "Wishlist", "link": "/wishlist" },
+    { "name": "Cart", "link": "/cart" },
+    { "name": "Logout", "link": "#" }
+  ],
+  "logo": "/images/logo (1).png",
+  "menu": [
+    { "name": "Home", "link": "/" },
+    { "name": "About", "link": "/about" },
+    {
+      "name": "Products",
+      "link": "#",
+      "submenu": [
+        { "name": "Indoor Product", "link": "/indoor" },
+        { "name": "Outdoor Product", "link": "/outdoor" }
+      ]
+    },
+    { "name": "Clients", "link": "/clients" },
+    { "name": "Contact Us", "link": "/contact" }
+  ],
+  "wishlistCount": 3,
+  "cartCount": 12
+}

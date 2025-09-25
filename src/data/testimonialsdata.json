@@ -1,0 +1,43 @@
+[
+  {
+    "name": "CARATLANE",
+    "role": "Retail Jewelry Store ",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies provided premium us with high-quality LED displays that exceeded our expectations."
+  },
+  {
+    "name": "TANISHQ",
+    "role": "Jewelry Retail Brand ",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies delivered premium LED displays that perfectly our showroom presentation."
+  },
+  {
+    "name": "LMS JEWELRY",
+    "role": "Retail Jewelry Store",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies provided us with excellent LED displays that enhanced our store’s visibility."
+  },
+  {
+    "name": "Swiss Paradise",
+    "role": "Official Retailer Watches",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies delivered premium LED displays that elevated our showroom’s luxury appeal."
+  },{
+    "name": "Raymond",
+    "role": "Clothing Brand",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies provided high-quality LED displays that enhanced our brand presentation."
+  },
+  {
+    "name": "Glenmark Pharma",
+    "role": "Pharmaceutical Company",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies provided top-quality LED displays that enhanced our corporate communications."
+  },
+  {
+    "name": "Red Chief",
+    "role": "Footwear Brand",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies delivered high-quality LED displays that enhanced our store’s visibility appeal."
+  }
+]

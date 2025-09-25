@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Cutting Edge Technology",
+    "description": "Designed with advanced components and high-quality materials for superior performance and longevity.",
+    "extraClass": "is-blue",
+    "isApp": false
+  },
+  {
+    "id": 2,
+    "title": "Expert Technical Support",
+    "description": "Lifetime consultion, remote assistance, and on-site support.",
+    "extraClass": "is-light-yellow",
+    "isApp": false
+  },
+  {
+    "id": 3,
+    "title": "Customizable Solutions",
+    "description": "LED displays available in various sizes, pixel pitches, and brightness levels, tailored to unique business application.",
+    "extraClass": "is-green",
+    "isApp": true
+  },
+  {
+    "id": 4,
+    "title": "Energy Efficient & Cost Effective",
+    "description": "Environmentally friendly and power-saving solutions, reducing electricity consumption.",
+    "extraClass": "is-pink",
+    "isApp": true
+  },
+  {
+    "id": 5,
+    "title": "Quick Installation & Maintenance",
+    "description": "Seamless assembly, remote support, and troubleshooting for uninterrupted operations.",
+    "extraClass": "is-orange",
+    "isApp": true
+  },
+  {
+    "id": 6,
+    "title": "Trusted by Leading Brands",
+    "description": "Proven track record of delivering solutions for multinational corporations, government agencies, and media companies",
+    "extraClass": "is-purple",
+    "isApp": true
+  }
+]

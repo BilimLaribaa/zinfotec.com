@@ -1,0 +1,43 @@
+{
+  "about": {
+    "title": "About Us",
+    "background": "/images/Downpic.cc-image228007079.jpg",
+    "path": [
+      { "name": "Home", "url": "/" },
+      { "name": "About Us" }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "background":"/images/Downpic.cc-image228007079.jpg",
+    "path": [
+      { "name": "Home", "url": "/" },
+      { "name": "Contact Us" }
+    ]
+  },
+  "indoor": {
+    "title": "Indoor Products",
+    "background":"/images/Downpic.cc-image228007079.jpg",
+    "path": [
+      { "name": "Home", "url": "/" },
+      { "name": "indoor" }
+    ]
+  },
+  "outdoor": {
+    "title": "Outdoor Products",
+    "background":"/images/Downpic.cc-image228007079.jpg",
+    "path": [
+      { "name": "Home", "url": "/" },
+      { "name": "outdoor" }
+    ]
+  },
+  "productsdetails": {
+    "title": "products details",
+    "background":"/images/Downpic.cc-image228007079.jpg",
+    "path": [
+      { "name": "Home", "url": "/" },
+      { "name": "products details" }
+    ]
+  }
+  
+}

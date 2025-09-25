@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "HOT DEAL LED",
+    "heading": "LED limit offer 20% Off",
+    "btnText": "Buy Now",
+    "btnLink": "/indoor",
+    "image": "/images/offerimages/Text-img-02.png",
+    "type": "discount"
+  },
+  {
+    "id": 2,
+    "title": "HOT DEAL LED",
+    "heading": "Deals Of the Month",
+    "btnText": "Buy Now",
+    "btnLink": "/indoor",
+    "image": "/images/offerimages/Text-img.png",
+    "type": "timer",
+    "startDate": "2025-10-01T11:59:59",  
+    "endDate": "2025-10-30T11:59:59"  
+  }
+]

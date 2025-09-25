@@ -1,0 +1,20 @@
+{
+  "subtitle": "ABOUT US",
+  "title": "Zinfotec Technologies Pvt.Ltd",
+  "description1": [
+    {
+      "before": "",
+      "bold": "Zinfotec Technologies Pvt. Ltd.",
+      "after": " is a premier manufacturer, supplier, and service provider of high-quality LED display solutions in India. Established in 2014 in Maharashtra, we have successfully built a strong reputation for delivering state-of-the-art LED technology across diverse industries, including advertising, corporate communications, entertainment, education, sports, and retail."
+    }
+  ],
+  "description2": [
+    "Our company has evolved from an importer and distributor into a business that now owns a fully integrated assembling unit. We have expanded our capabilities to include a modern workshop, a dedicated marketing team, and a comprehensive after-sales service infrastructure. Our commitment to quality, innovation, and customer satisfaction ensures we remain at the forefront of the LED display industry. Our research and development division continuously works on enhancing technology and reducing power consumption by implementing cutting-edge LED chip designs, optimizing heat dissipation mechanisms, and integrating intelligent power management systems. Through rigorous testing and innovation, we ensure that our products maintain peak performance while consuming minimal energy, contributing to both cost savings and environmental sustainability. We collaborate with global technology partners to bring the latest innovations to the Indian market. Our team comprises industry experts, engineers, and technicians dedicated to delivering top-notch services and customer satisfaction. We offer customizable LED solutions, allowing businesses to create impactful visual experiences tailored to their specific needs."
+  ],
+  "imageLeft": "/images/201b35fa-e808-4406-8a5a-d7d1bb203e84 (1).jpeg",
+  "imageRight": "/images/WhatsApp Image 2025-09-18 at 18.59.22_167d8440.jpg",
+  "video": {
+    "thumbnail": "/images/demo-accounting-bg.jpg",
+    "url": ""
+  }
+}
