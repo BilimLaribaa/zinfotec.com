@@ -21,14 +21,14 @@ app.post("/sendmail", async (req, res) => {
     const transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
-        user: "",  // ✅ your Gmail
-        pass: "", // ✅ Gmail App Password
+        user: "zinfotec.india@gmail.com",  // ✅ your Gmail
+        pass: "ftbg uelk dmtx sljr", // ✅ Gmail App Password
       },
     });
 
     const mailOptions = {
-      from: `"Website Contact Form" <aitakef@gmail.com>`,
-      to: "aitakef@gmail.com",
+      from: `"Zinfotec.com Website" <zinfotec.india@gmail.com>`,
+      to: "zinfotec.india@gmail.com",
       replyTo: email,
       subject: `New Contact Form Submission from ${name}`,
       html: `

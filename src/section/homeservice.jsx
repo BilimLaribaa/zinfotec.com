@@ -39,8 +39,8 @@ const HomeService =()=>{
               </svg>
             </div>
             <div className="frs-content">
-              <h6>Free Delivery</h6>
-              <p>Free shipping on all order</p>
+              <h6>Delivery</h6>
+              <p>Anywhere in india</p>
             </div>
           </div>
         </div>
@@ -103,8 +103,8 @@ const HomeService =()=>{
               </svg>
             </div>
             <div className="frs-content">
-              <h6>Online Support 24/7</h6>
-              <p>Support online 24 hours a day</p>
+              <h6>Online Support</h6>
+              <p>Support online a day</p>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@ const HomeService =()=>{
             </div>
             <div className="frs-content">
               <h6>Reliable</h6>
-              <p>Trusted by 1000+ brands</p>
+              <p>Trusted by multiple brands</p>
             </div>
           </div>
         </div>

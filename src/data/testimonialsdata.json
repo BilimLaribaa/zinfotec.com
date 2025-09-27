@@ -1,42 +1,63 @@
 [
   {
-    "name": "CARATLANE",
-    "role": "Retail Jewelry Store ",
+    "clientshop": "CARATLANE",
+    "clientname": "Viney Surana",
+    "shoplocation": "Aurangabad",
     "rating": 4,
     "feedback": "Zinfotec Technologies provided premium us with high-quality LED displays that exceeded our expectations."
   },
   {
-    "name": "TANISHQ",
-    "role": "Jewelry Retail Brand ",
+    "clientshop": "TANISHQ",
+    "clientname": "Apurva Darade",
+    "shoplocation": "Nashik",
     "rating": 4,
     "feedback": "Zinfotec Technologies delivered premium LED displays that perfectly our showroom presentation."
   },
   {
-    "name": "LMS JEWELRY",
-    "role": "Retail Jewelry Store",
+    "clientshop": "Vertex Pvt.Ltd",
+    "clientname": "Vivek Sir",
+    "shoplocation": "Aurangabad",
     "rating": 4,
     "feedback": "Zinfotec Technologies provided us with excellent LED displays that enhanced our store’s visibility."
   },
   {
-    "name": "Swiss Paradise",
-    "role": "Official Retailer Watches",
+    "clientshop": "Swiss Paradise",
+    "clientname": "Varun Sir",
+    "shoplocation": "Borivali",
     "rating": 4,
     "feedback": "Zinfotec Technologies delivered premium LED displays that elevated our showroom’s luxury appeal."
   },{
-    "name": "Raymond",
-    "role": "Clothing Brand",
+    "clientshop": "Printech Printers",
+    "clientname": "Pankaj Yeole",
+    "shoplocation": "Aurangabad",
     "rating": 4,
     "feedback": "Zinfotec Technologies provided high-quality LED displays that enhanced our brand presentation."
   },
   {
-    "name": "Glenmark Pharma",
-    "role": "Pharmaceutical Company",
+    "clientshop": "Time Avenue",
+    "clientname": "Anand Sir",
+    "shoplocation": "Mumbai Bandra",
     "rating": 4,
     "feedback": "Zinfotec Technologies provided top-quality LED displays that enhanced our corporate communications."
   },
   {
-    "name": "Red Chief",
-    "role": "Footwear Brand",
+    "clientshop": "Red Chief",
+    "clientname": "Ahmed Sir",
+    "shoplocation": "Aurangabad",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies delivered high-quality LED displays that enhanced our store’s visibility appeal."
+  },
+  {
+    "clientshop": " Bhangale Gold",
+    "clientname": "Sagar Sir",
+    "shoplocation": "Jalgaon",
+    "rating": 4,
+    "feedback": "Zinfotec Technologies delivered high-quality LED displays that enhanced our store’s visibility appeal."
+  },
+  {
+    "clientshop": "Breson Mechanical",
+    "clientname": "Chaitanya Jamdar",
+    "shoplocation": "Pune",
     "rating": 4,
     "feedback": "Zinfotec Technologies delivered high-quality LED displays that enhanced our store’s visibility appeal."
   }

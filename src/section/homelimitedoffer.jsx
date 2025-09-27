@@ -2,54 +2,36 @@ import React, { useEffect, useState } from "react";
 import bannerData from "../data/offerbannerdata.json";
 
 const FurnitureLimitedOffer = () => {
-  const [timeLeft, setTimeLeft] = useState({});
-  const [status, setStatus] = useState("coming-soon"); // "coming-soon" | "live" | "expired"
+  const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   // 🔹 Time difference calculate karne ka function
-  const calculateTimeLeft = (start, end) => {
+  const calculateTimeLeft = (end) => {
     const now = new Date();
+    const diff = +end - +now;
 
-    if (now < start) {
-      setStatus("coming-soon");
-      const diff = +start - +now;
-      return {
-        days: Math.floor(diff / (1000 * 60 * 60 * 24)),
-        hours: Math.floor((diff / (1000 * 60 * 60)) % 24),
-        minutes: Math.floor((diff / (1000 * 60)) % 60),
-        seconds: Math.floor((diff / 1000) % 60),
-      };
-    } else if (now >= start && now <= end) {
-      setStatus("live");
-      const diff = +end - +now;
-      return {
-        days: Math.floor(diff / (1000 * 60 * 60 * 24)),
-        hours: Math.floor((diff / (1000 * 60 * 60)) % 24),
-        minutes: Math.floor((diff / (1000 * 60)) % 60),
-        seconds: Math.floor((diff / 1000) % 60),
-      };
-    } else {
-      setStatus("expired");
-      return { days: 0, hours: 0, minutes: 0, seconds: 0 };
+    if (diff <= 0) {
+      return { days: 0, hours: 0, minutes: 0, seconds: 0 }; // agar time khatam ho gaya
     }
+
+    return {
+      days: Math.floor(diff / (1000 * 60 * 60 * 24)),
+      hours: Math.floor((diff / (1000 * 60 * 60)) % 24),
+      minutes: Math.floor((diff / (1000 * 60)) % 60),
+      seconds: Math.floor((diff / 1000) % 60),
+    };
   };
 
   useEffect(() => {
     const bannerWithTimer = bannerData.find((b) => b.type === "timer");
 
-    if (!bannerWithTimer) {
-      // agar json me timer nahi hai to bhi default Coming Soon dikhao
-      setStatus("coming-soon");
-      setTimeLeft({ days: 0, hours: 0, minutes: 0, seconds: 0 });
-      return;
-    }
+    if (!bannerWithTimer) return;
 
-    const startDate = new Date(bannerWithTimer.startDate);
     const endDate = new Date(bannerWithTimer.endDate);
 
-    setTimeLeft(calculateTimeLeft(startDate, endDate));
+    setTimeLeft(calculateTimeLeft(endDate));
 
     const interval = setInterval(() => {
-      setTimeLeft(calculateTimeLeft(startDate, endDate));
+      setTimeLeft(calculateTimeLeft(endDate));
     }, 1000);
 
     return () => clearInterval(interval);
@@ -84,57 +66,25 @@ const FurnitureLimitedOffer = () => {
                     {banner.heading}
                   </h2>
 
-                  {/* ✅ Timer / Coming Soon / Expired */}
+                  {/* ✅ Simple Counter Only */}
                   {banner.type === "timer" && (
                     <div className="countdown-wrapper">
-                      {status === "coming-soon" && (
-                        <>
-                          <h4 className="text-white mb-20">Coming Soon</h4>
-                          <ul>
-                            <li><span>{timeLeft.days}</span>days</li>
-                            <li><span>{timeLeft.hours}</span>hrs</li>
-                            <li><span>{timeLeft.minutes}</span>mins</li>
-                            <li><span>{timeLeft.seconds}</span>secs</li>
-                          </ul>
-                        </>
-                      )}
-
-                      {status === "live" && (
-                        <>
-                          <h4 className="text-white mb-20">Offer Ends In</h4>
-                          <ul>
-                            <li><span>{timeLeft.days}</span>days</li>
-                            <li><span>{timeLeft.hours}</span>hrs</li>
-                            <li><span>{timeLeft.minutes}</span>mins</li>
-                            <li><span>{timeLeft.seconds}</span>secs</li>
-                          </ul>
-                        </>
-                      )}
-
-                      {status === "expired" && (
-                        <>
-                          <h4 className="text-white mb-20">Offer Expired</h4>
-                          <ul>
-                            <li><span>0</span>days</li>
-                            <li><span>0</span>hrs</li>
-                            <li><span>0</span>mins</li>
-                            <li><span>0</span>secs</li>
-                          </ul>
-                        </>
-                      )}
+                      <ul>
+                        <li><span>{timeLeft.days}</span>days</li>
+                        <li><span>{timeLeft.hours}</span>hrs</li>
+                        <li><span>{timeLeft.minutes}</span>mins</li>
+                        <li><span>{timeLeft.seconds}</span>secs</li>
+                      </ul>
                     </div>
                   )}
 
-                  {/* ✅ Button Condition */}
-                  {banner.type === "discount" ||
-                  (banner.type === "timer" && status === "live") ? (
-                    <a className="border__btn-f mt-35" href={banner.btnLink}>
-                      {banner.btnText}
-                      <span>
-                        <i className="fa-regular fa-angle-right"></i>
-                      </span>
-                    </a>
-                  ) : null}
+                  {/* ✅ Button always visible */}
+                  <a className="border__btn-f mt-35" href={banner.btnLink}>
+                    {banner.btnText}
+                    <span>
+                      <i className="fa-regular fa-angle-right"></i>
+                    </span>
+                  </a>
                 </div>
               </div>
             </div>

@@ -94,7 +94,7 @@ const Header = () => {
                 <div className="header-main-4">
                   <div className="header-left">
                     <div className="header-logo">
-                      <a href="index-2.html">
+                      <a href="/">
                         <img src="/images/logo (1).png" alt="logo not found" />
                       </a>
                     </div>

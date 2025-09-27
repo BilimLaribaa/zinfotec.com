@@ -53,11 +53,13 @@ const TestimonialSection = () => {
                         ></i>
                       ))}
                     </div>
-                    <h5>{item.name}</h5>
-                    <span>{item.role}</span>
+                    <h5>{item.clientshop}</h5>
+                    <span>{item.clientname}</span>
+                    <br />
+                    <span>{item.shoplocation}</span>
+                    <p>{item.feedback}</p>
                   </div>
                 </div>
-                <p>{item.feedback}</p>
               </div>
             </SwiperSlide>
           ))}

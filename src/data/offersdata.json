@@ -1,14 +1,14 @@
 [
   {
-    "discount": "UP TO 20% OFF",
-    "title": "p1.8 Indoor Rental LED",
-    "img": "/images/offerimages/Offer-Image-02.png",
+    "discount": "special offer prices",
+    "title": "p1.8 Indoor LED",
+    "img": "images/offerimages/offer-img-01.png",
     "link": "/indoor"
   },
   {
-    "discount": "UP TO 20% OFF",
-    "title": "Digital LED Standee",
-    "img": "/images/offerimages/Offer-Image.png",
+    "discount": "special offer sprices",
+    "title": "p3.07 Outdoor LED ",
+    "img": "images/offerimages/offer-img-02.png",
     "link": "/indoor"
   }
 ]
