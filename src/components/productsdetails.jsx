@@ -1,43 +1,63 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import productData from "../data/indooroutdoorproducts.json";
-import featuredData from "../data/indooroutdoorproducts.json";
-import trendyData from "../data/indooroutdoorproducts.json";
-import bestSellers from "../data/indooroutdoorproducts.json";
+import { useState as useStateHook } from "react"; // keep your existing useState import
+import config from "../config";
+import Spinner from "../components/spinner.jsx"; // 👈 import spinner
 
 const ProductDetails = () => {
 
-  const [width, setWidth] = useState(1);
+   const [width, setWidth] = useState(1);
   const [height, setHeight] = useState(1);
 
   const { page, id } = useParams();
 
-  let products = [];
+  const [product, setProduct] = useState(null);
+  const [specs, setSpecs] = useState([]);
+  const [images, setImages] = useState([]); // ✅ Only from ProductFetch
+  const [loading, setLoading] = useState(true);
 
-  if (page === "indoor") {
-    products = productData.indoor;
-  } else if (page === "outdoor") {
-    products = productData.outdoor;
-  } else if (page === "featured") {
-    products = featuredData.featured;
-  } else if (page === "trendy") {
-    products = trendyData.trendy;
-  } else if (page === "best") {
-    products = bestSellers.best;
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        // ✅ Fetch product data
+        const prodRes = await fetch(`${config.API_BASE_URL}/ProductFetch`);
+        const prodData = await prodRes.json();
+        const foundProduct = prodData.find((p) => p.product_id === parseInt(id));
+        setProduct(foundProduct || null);
+
+        // ✅ Get image(s) from product
+        if (foundProduct?.product_image) {
+          const imgs = foundProduct.product_image
+            .split(",")
+            .map((img) => `${config.IMAGE_BASE_URL}/${img.trim()}`);
+          setImages(imgs);
+        }
+
+        // ✅ Fetch specifications
+        const specRes = await fetch(`${config.API_BASE_URL}/SpecFetch`);
+        const specData = await specRes.json();
+        const productSpecs = specData.filter((s) => s.product_id === parseInt(id));
+        setSpecs(productSpecs);
+
+        setLoading(false);
+      } catch (error) {
+        console.error("API fetch error:", error);
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [id]);
+
+  if (loading) {
+    return <Spinner size="60px" />; // 👈 yaha spinner show hoga
   }
 
+  if (!product) return <h2>Product not found</h2>;
 
-
-  const product = products?.find((p) => p.id === parseInt(id));
-
-  if (!product) {
-    return <h2>Product not found</h2>;
-  }
-
-   // ✅ ab product ke baad calculation
+  // ✅ Total area and price calculation
   const totalSqFt = width * height;
-  const totalPrice = totalSqFt * (product.newPrice || 0);
+  const totalPrice = totalSqFt * (product.product_price || 0);
 
   return (
     <>
@@ -50,13 +70,14 @@ const ProductDetails = () => {
               <div className="product__details-thumb-wrapper d-sm-flex align-items-start mr-50">
                 {/* Small thumbs */}
                 <div className="product__details-thumb-tab mr-20">
-                  <nav>
-                    <div
-                      className="nav nav-tabs flex-nowrap flex-sm-column"
-                      id="nav-tab"
-                      role="tablist"
-                    >
-                      {product.images?.map((img, index) => (
+                <nav>
+                  <div
+                    className="nav nav-tabs flex-nowrap flex-sm-column"
+                    id="nav-tab"
+                    role="tablist"
+                  >
+                    {images.length > 0 ? (
+                      images.map((img, index) => (
                         <button
                           key={index}
                           className={`nav-link ${index === 0 ? "active" : ""}`}
@@ -70,18 +91,24 @@ const ProductDetails = () => {
                         >
                           <img src={img} alt="product-sm-thumb" />
                         </button>
-                      ))}
-                    </div>
-                  </nav>
-                </div>
+                      ))
+                    ) : (
+                      <p>No images available</p>
+                    )}
+                  </div>
+                </nav>
+              </div>
 
                 {/* Big images */}
                 <div className="product__details-thumb-tab-content">
-                  <div className="tab-content" id="productthumbcontent">
-                    {product.images?.map((img, index) => (
+                <div className="tab-content" id="productthumbcontent">
+                  {images.length > 0 ? (
+                    images.map((img, index) => (
                       <div
                         key={index}
-                        className={`tab-pane fade ${index === 0 ? "show active" : ""}`}
+                        className={`tab-pane fade ${
+                          index === 0 ? "show active" : ""
+                        }`}
                         id={`img-${index + 1}`}
                         role="tabpanel"
                         aria-labelledby={`img-${index + 1}-tab`}
@@ -90,43 +117,43 @@ const ProductDetails = () => {
                           <img src={img} alt="product-big" />
                         </div>
                       </div>
-                    ))}
-                  </div>
+                    ))
+                  ) : (
+                    <p>No images available</p>
+                  )}
                 </div>
               </div>
             </div>
+          </div>
 
             {/* Right: Content */}
             <div className="col-xxl-6 col-lg-6">
               <div className="product__details-content pr-80">
                 <div className="product__details-top d-sm-flex align-items-center mb-15">
                   <div className="product__details-tag mr-10">
-                    <a href="#">{product.category}</a>
-                  </div>
-                  <div className="fs-rating">
-                    {Array.from({ length: 5 }).map((_, i) => (
-                      <i
-                        key={i}
-                        className={`fa-star ${i < (product.rating || 0) ? "fa-solid" : "fa-regular"}`}
-                      ></i>
-                    ))}
-                  </div>
-                  <div className="product__details-review-count">
-                    <a href="#">{product.reviews || 0} Reviews</a>
-                  </div>
+                  <a href="#">{product.product_status}</a>
                 </div>
+                {/* <div className="fs-rating">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <i
+                      key={i}
+                      className={`fa-star ${
+                        i < (product.rating || 0) ? "fa-solid" : "fa-regular"
+                      }`}
+                    ></i>
+                  ))}
+                </div> */}
+              </div>
 
                 <h3 className="product__details-title text-capitalize">
-                  {product.title}
-                </h3>
+                {product.product_name}
+              </h3>
 
                 {/* Price */}
                 <div className="product__details-price">
-                  {/* <span className="old-price">${product.oldPrice}</span> */}
-                  <span className="new-price">₹{product.newPrice} Per Square Feet</span>
-                </div>
-
-                <p>{product.shortDescription || "No short description available."}</p>
+                <span className="new-price">₹{product.product_price} Per Square Feet</span>
+              </div>
+                {/* <p>{product.product_status}</p> */}
 
                 {/* Quantity + Add to Cart */}
                 {/* <div className="product__details-action mb-35">
@@ -359,14 +386,12 @@ const ProductDetails = () => {
                       aria-labelledby="nav-description-tab"
                     >
                       <div className="product__details-des">
-                        {product.description ? (
-                          product.description.split("\n").map((para, i) => (
-                            <p key={i}>{para}</p>
-                          ))
-                        ) : (
-                          <p>No description available.</p>
-                        )}
-                      </div>
+                {product.product_desc
+                  ? product.product_desc.split("\n").map((para, i) => (
+                      <p key={i}>{para}</p>
+                    ))
+                  : "No description available."}
+              </div>
                     </div>
 
                     {/* ✅ Additional Info Dynamic */}
@@ -378,15 +403,15 @@ const ProductDetails = () => {
                     >
                       <div className="product__details-info">
                         <ul>
-                          {product.additionalInfo
-                            ? Object.entries(product.additionalInfo).map(([key, value], i) => (
-                              <li key={i}>
-                                <h4>{key}</h4>
-                                <span>{value}</span>
-                              </li>
-                            ))
-                            : "No additional info."}
-                        </ul>
+                  {specs.length > 0
+                    ? specs.map((s) => (
+                        <li key={s.specification_id}>
+                          <h4>{s.specification_name}</h4>
+                          <span>{s.specification_value}</span>
+                        </li>
+                      ))
+                    : "No additional info."}
+                </ul>
                       </div>
                     </div>
 

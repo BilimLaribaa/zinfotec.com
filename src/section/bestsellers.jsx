@@ -32,7 +32,7 @@ const BestSellers = () => {
                     <a href={`/productsdetails/best/${item.id}`}>{item.title}</a>
                   </h4>
                   <span>₹{item.newPrice} Per Square Feet</span>
-                  <div className="fs-rating">
+                  {/* <div className="fs-rating">
                     {Array.from({ length: 5 }).map((_, i) => (
                       <i
                         key={i}
@@ -40,7 +40,7 @@ const BestSellers = () => {
                           }`}
                       ></i>
                     ))}
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

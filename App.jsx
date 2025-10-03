@@ -6,9 +6,12 @@ import ContactUs from './src/pages/contactuspage';
 import InDoor from './src/pages/indoorproductspage';
 import OutDoor from './src/pages/outdoorproductspage';
 import Products_Details from './src/pages/productsdetailspage';
+import BackToTop from './src/components/backtotop';
+import PreloaderAndModals from './src/section/preloaderandmodals';
 
 function App() {
   return (
+  <>
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
@@ -18,6 +21,10 @@ function App() {
       {/* Pass product id */}
       <Route path="/productsdetails/:page/:id" element={<Products_Details />} />
     </Routes>
+    <PreloaderAndModals/>
+    <BackToTop/>
+    
+  </>
   );
 }
 

@@ -111,7 +111,7 @@ const TrendyCards = () => {
                         <h4 className="product-title">
                           <a href={`/productsdetails/trendy/${item.id}`}>{item.title}</a>
                         </h4>
-                        <div className="fs-rating">
+                        {/* <div className="fs-rating">
                     {Array.from({ length: 5 }).map((_, i) => (
                       <i
                         key={i}
@@ -120,7 +120,7 @@ const TrendyCards = () => {
                         }`}
                       ></i>
                     ))}
-                  </div>
+                  </div> */}
                         <div className="product-price">
                           {/* <span className="product-old-price">
                             <del>${item.oldPrice}</del>
